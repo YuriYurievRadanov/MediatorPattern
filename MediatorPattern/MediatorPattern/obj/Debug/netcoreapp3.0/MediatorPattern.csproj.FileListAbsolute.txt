@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.0\MediatorPattern.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.0\MediatorPattern.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.0\MediatorPattern.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.0\MediatorPattern.exe
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.0\MediatorPattern.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.0\MediatorPattern.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.0\MediatorPattern.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.0\MediatorPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.0\MediatorPattern.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.0\MediatorPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.0\MediatorPattern.pdb
